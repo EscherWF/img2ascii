@@ -13,7 +13,7 @@ $ pip install -r requirements.txt
 $ python image2ascii.py path_to_image
 ```
 
-![dog](dog.png)
+![dog](dog.jpg)
 ↓
 ↓
 ↓
